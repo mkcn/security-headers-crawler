@@ -1,0 +1,19 @@
+INDEX,SITE
+77,http://www.dailymotion.com,WRONG META
+112,qqm98.com,wrong cookie
+1111,irimo.ir,interesting
+1233,paddypower.com,400
+13964,playno1.com,400,,,
+124,itslearning.com,RedirectLogin
+123,collegeboard.org,requestedUrl
+234,islamweb.net,400
+2,att.net,404 js redirect
+1,justdial.com, 400
+23,houzz.com,-1 it's not
+758,sears.com,-1 it's not 
+17,amazon.ca, -1
+6,amazon.cn, sometime -1
+22,haosou.com, 400
+100,so.com, 400
+24,ifeng.com, sometime -1 and incomplete read in meta tag
+26,opensource.org, sometime -1

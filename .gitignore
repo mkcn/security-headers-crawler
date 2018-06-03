@@ -1,0 +1,13 @@
+test.db
+.vscode/
+other/curl_note
+other
+output/
+mCVS.pyc
+mChecker.pyc
+mPrinter.pyc
+mSql.pyc
+mTask.pyc
+mWorker.pyc
+progress
+.idea/
